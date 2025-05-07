@@ -4,13 +4,15 @@ This repository contains the source code for my personal portfolio, developed to
 
 ## Project Structure
 
-- **assets/**: Contains images used on the website, such as logos and photos.
-  - `img/`: Subfolder with the images.
-- **htmls/**: Contains the HTML files of the website.
+- **portfolio/**: Project's Repository.
   - `index.html`: Portfolio's homepage.
   - `about.html`: "About Me" page with additional information.
-- **styles/**: Contains the CSS files for the website's styling.
-  - `style.css`: Main styles of the website.
+  - **assets/**: Contains images used on the website, such as logos and photos.
+    - `img/`: Subfolder with the project images.
+    - `docs/`: Subfolder with the project documents.
+  - **styles/**: Contains the CSS files for the website's styling.
+    - `style.css`: Main styles of the website.
+
 
 ## Technologies Used
 
@@ -20,15 +22,9 @@ This repository contains the source code for my personal portfolio, developed to
 
 ## How to View the Project
 
-1. Clone this repository:
-   ```bash
-   git clone <REPOSITORY_URL>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio
-   ```
-3. Open the `htmls/index.html` file in a browser of your choice.
+You can view the portfolio live at the following link:
+
+[portfolio-zanizadas-projects.vercel.app](https://portfolio-zanizadas-projects.vercel.app)
 
 ## Author
 

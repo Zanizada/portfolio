@@ -4,13 +4,14 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 
 ## Estrutura do Projeto
 
-- **assets/**: Contém imagens utilizadas no site, como logos e fotos.
-  - `img/`: Subpasta com as imagens.
-- **htmls/**: Contém os arquivos HTML do site.
+- **portfolio/**: Repositório do projeto.
   - `index.html`: Página inicial do portfólio.
   - `about.html`: Página "Sobre mim" com informações adicionais.
-- **styles/**: Contém os arquivos CSS para estilização do site.
-  - `style.css`: Estilos principais do site.
+  - **assets/**: Contém imagens utilizadas no site, como logos e fotos.
+    - `img/`: Subpasta com as imagens do projeto.
+    - `docs/`: Subpasta com os documentos do projeto.
+  - **styles/**: Contém os arquivos CSS para estilização do site.
+    - `style.css`: Estilos principais do site.
 
 ## Tecnologias Utilizadas
 
@@ -20,15 +21,9 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 
 ## Como Visualizar o Projeto
 
-1. Clone este repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd portfolio
-   ```
-3. Abra o arquivo `htmls/index.html` em um navegador de sua escolha.
+Você pode visualizar o portfólio ao vivo no seguinte link:
+
+[portfolio-zanizadas-projects.vercel.app](https://portfolio-zanizadas-projects.vercel.app)
 
 ## Autor
 
